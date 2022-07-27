@@ -10,6 +10,9 @@ using System.Windows.Forms;
 
 namespace RespaldadorStock
 {
+    /// <summary>
+    /// Metido a Github 27072022
+    /// </summary>
     public partial class Form1 : Form
     {
         List<Entity.Bitacora> _listaBitacoras = new List<Entity.Bitacora>();
